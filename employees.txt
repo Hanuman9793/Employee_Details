@@ -7,3 +7,5 @@ E105 Neha IT Tester 42000
 E106 Rahul IT Backend-Developer 55000
 E107 Priya HR Recruiter 48000
 E108 Karan Finance Analyst 52000
+E107 Priya HR Recruiter 48000
+E108 Karan Finance Analyst 52000
