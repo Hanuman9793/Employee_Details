@@ -1,3 +1,4 @@
+Employee ID Name Department Designation Salary
 E101 Harpreet IT Developer 50000
 E102 Aman HR Manager 60000
 E103 Simran Finance Accountant 45000
